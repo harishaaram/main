@@ -1,0 +1,2243 @@
+[33mcommit b830d7a4f7d20d7fa27fafc0840f7a532e9f2aba[m
+Merge: 6fbffa0 7c39521
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Nov 4 21:05:16 2017 -0500
+
+    Merge branch 'master' of https://github.com/harishaaram/main
+
+[33mcommit 6fbffa01199532233852ea244df5aabdd344168c[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Nov 4 21:05:07 2017 -0500
+
+    Reverting to the state of the project at 78fa512ssdf
+
+[33mcommit 7c3952161e69029ed5b10b2f62c5b3605e6fe693[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Nov 4 15:08:41 2017 -0500
+
+    del lec19 fold
+
+[33mcommit 3d2f195c65506e7aab0b8b371a29886810f31ebb[m
+Merge: 15d4e98 86e306d
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Nov 4 15:03:48 2017 -0500
+
+    add all and commit
+
+[33mcommit 15d4e9854052f245000670b5501e8bd8f2f288de[m
+Merge: 59f7e92 8ee8f06
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Nov 4 14:55:11 2017 -0500
+
+    add ll
+
+[33mcommit 59f7e929faa6c5b39f5b6ef12b28cf189c07a1d9[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Nov 4 14:47:44 2017 -0500
+
+    adding all for fetch lec 19 and 18
+
+[33mcommit 86e306d033a264eeb75e63bef1c8169f2f8b0c00[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Nov 1 15:02:54 2017 -0500
+
+    l15 after class
+
+[33mcommit 78fa51202bfa8cd11c4e4fbf3e2f1c67330fa076[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Oct 30 15:06:27 2017 -0500
+
+    l14 after class
+
+[33mcommit 7bbee376336ed1d96628e019149485f9ba5535a4[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Oct 30 13:30:21 2017 -0500
+
+    l14 before class
+
+[33mcommit 05bfcd542b441cb031dd59770b20d535186b981d[m
+Merge: 6d5b245 7f64afe
+Author: Aron <aronwc@gmail.com>
+Date:   Thu Oct 26 11:01:12 2017 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 6d5b2450799b9b4890261ec2a98a3a12740f7f41[m
+Author: Aron <aronwc@gmail.com>
+Date:   Thu Oct 26 11:01:08 2017 -0500
+
+    change office number
+
+[33mcommit 7f64afe187ff2c712c222ed301f1045c7e2a60f7[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Oct 25 19:28:56 2017 -0500
+
+    Update Schedule.md
+
+[33mcommit 4199dab0f65bcaeab103af2a0d14562dd344ca53[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Oct 25 19:27:40 2017 -0500
+
+    move a2 due date to friday
+
+[33mcommit 7ad123536bf4a5688e3c21f3b543aa43c0edaf14[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Oct 25 16:28:05 2017 -0500
+
+    l18/19 after class
+
+[33mcommit ba81b0cbe262b478e6208cf6167b4e8441089a8a[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Oct 23 15:14:30 2017 -0500
+
+    kfold example
+
+[33mcommit 14b7e8454741dabcaabe00aab82834cd87b360f2[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Oct 23 15:14:09 2017 -0500
+
+    l18
+
+[33mcommit 15cf840e17023efde303a8db295c71c7c4049ad8[m
+Merge: 71c2ceb 9e7904a
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Oct 21 16:00:46 2017 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+    
+    2nd upsrem merging
+
+[33mcommit 71c2ceb93f503706742a78a7f0b32973d0a49d8e[m
+Merge: a047dae 3b26627
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sat Oct 21 15:59:16 2017 -0500
+
+    l12,l13 change
+
+[33mcommit 9e7904a884ed19c8c73afaf5e492c72e673f7365[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Oct 18 16:40:17 2017 -0500
+
+    l13 after class
+
+[33mcommit a047dae0bcbeeef6fd6a808a9f58d9850bed4f47[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Tue Oct 17 08:41:36 2017 -0500
+
+    fetching from upstream
+
+[33mcommit 3b2662725ffbe01fa62ca45551047de580fb9a69[m
+Merge: 06a20bb 7b33f7f
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Oct 16 15:29:06 2017 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 06a20bb074ef6727d45f65913b637ee3c837323e[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Oct 16 15:29:04 2017 -0500
+
+    l11,12,13 after class
+
+[33mcommit 7b33f7f2c9a5d2c833ea1e2e23e0aad48a20150a[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Oct 10 14:08:41 2017 -0500
+
+    push back due dates by a week
+
+[33mcommit 8ee8f060c114dd89d9c7142c0b907dfb27be4a68[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sun Oct 8 11:07:35 2017 -0500
+
+    ML for sentiment anly;
+
+[33mcommit 7808407a5c964867f0ae7d6f207e70630e1dacae[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Sun Oct 8 10:02:40 2017 -0500
+
+    ADM proj:imp sentiment anlys; completed
+
+[33mcommit 2942c9ae06b0f69e3bb82ed6b7491ab0d763cb57[m
+Author: Aron <aronwc@gmail.com>
+Date:   Sat Oct 7 02:24:37 2017 -0500
+
+    fix bug in adar
+
+[33mcommit 50398870c81623d3cc606ed0a0431e04ee385f70[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Wed Oct 4 11:46:33 2017 -0500
+
+    l09 compl
+
+[33mcommit 8ce81cd43ca5186f000ab2b099f43ddc42ce6018[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Wed Oct 4 09:40:13 2017 -0500
+
+    l08 compl
+
+[33mcommit 4b25d10d87a11505420bb19304b78a17602bd721[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Tue Oct 3 08:57:16 2017 -0500
+
+    lec7 compl
+
+[33mcommit 8437290a250c3d601e18f737aef87a3871e6cce2[m
+Merge: d9c41f5 b6bd61f
+Author: Aron <aronwc@gmail.com>
+Date:   Fri Sep 29 08:45:30 2017 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit d9c41f53370bdf2178a699aa4261a80a0f142e09[m
+Author: Aron <aronwc@gmail.com>
+Date:   Fri Sep 29 08:45:28 2017 -0500
+
+    l12
+
+[33mcommit b6bd61f67ffcabb4d3fb8777fc3acdd55dfc2d22[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Sep 27 09:50:20 2017 -0500
+
+    Update Schedule.md
+
+[33mcommit e74019c9a3993443595e9f22292f91dd7ca2d350[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Wed Sep 27 00:48:04 2017 -0500
+
+    l05, lo6 completed
+
+[33mcommit 517fe2e7eebb812bec29a31ac2b1fdc5f4be05b5[m
+Merge: f9d2078 779a1d3
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Sep 25 15:02:06 2017 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit f9d20781c35e2c5ecb8e7efd055c7f2ab42992a1[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Sep 25 15:01:55 2017 -0500
+
+    l10
+
+[33mcommit 779a1d3408a208ae1ffdadd8376d117e9fcd1973[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Sep 22 15:59:27 2017 -0500
+
+    Extend due date for A1
+
+[33mcommit 510eb83c356bf8fae8b83009d16ea16c1fe5cf93[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Wed Sep 20 21:17:08 2017 -0500
+
+    l04 complete
+
+[33mcommit 7b0645d3fea96a83be8c4a80f4ca238b310c758f[m
+Author: harish gandhi ramachandran <hramachandran.haw.iit.edu>
+Date:   Wed Sep 20 16:35:28 2017 -0500
+
+    Initial commit
+
+[33mcommit 39d53d3bb2074468b98e8bacd7d7932111b95386[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Sep 20 15:16:00 2017 -0500
+
+    l09 after class
+
+[33mcommit 3d530c21ad700eb75e3f887e62213bdefe6a1151[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Sep 18 15:04:25 2017 -0500
+
+    l08 after class
+
+[33mcommit 174f7862877a9df291c2d351fbab7c65c33cc668[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Sep 13 15:22:13 2017 -0500
+
+    l07 after class
+
+[33mcommit 4a68e1d123e6bb71be4cc61ea9b5e04ca4290a71[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Sep 11 15:17:31 2017 -0500
+
+    l06 after class
+
+[33mcommit c1014a372cb32990b6f1bc919bcd65258755bf53[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Sep 6 15:52:57 2017 -0500
+
+    l05 after class
+
+[33mcommit 0649cff60cbe61b1240f00b5eb8dfd5aa2932136[m
+Merge: 59432c9 601b951
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Aug 30 15:54:38 2017 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 59432c9bbe9823c389c82cd5e4e0d4828a1a0e4d[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Aug 30 15:54:34 2017 -0500
+
+    l04 after class
+
+[33mcommit 601b951306cdae24d1a5bd96b03f953acfb812aa[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Aug 29 13:46:42 2017 -0500
+
+    Update README.md
+
+[33mcommit da8768a372a2c75e7a2bc6c955243d70a8d7ea4d[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 28 21:55:37 2017 -0500
+
+    add TAs
+
+[33mcommit 7322ee85117b8170437f59b7920ad6d9dac5b26d[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 28 21:24:49 2017 -0500
+
+    l03 after class
+
+[33mcommit abffa72fc6564db3f74517f349b56446b7d2709f[m
+Author: Aron <aronwc@gmail.com>
+Date:   Wed Aug 23 15:16:29 2017 -0500
+
+    l02 after class
+
+[33mcommit d96d8bdfb0cf339f12e599c84d3b295d71132c94[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 21 15:23:36 2017 -0500
+
+    l01 after class
+
+[33mcommit b616c6b3c4fda67cbd01f8321cdfd407624223fc[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 21 15:23:27 2017 -0500
+
+    twitter cfg
+
+[33mcommit 060a414040acafbffb4e46620e341d9061a9243d[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 21 15:23:07 2017 -0500
+
+    ignore twitter cfg
+
+[33mcommit 5b290d21bd0a83aa9a22c0e79f88fcb2106911aa[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 21 15:22:35 2017 -0500
+
+    survey results
+
+[33mcommit d2a5c50a5d2cdbada0f50ea2d78a59a472a658ad[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 21 15:22:04 2017 -0500
+
+    mv survey results
+
+[33mcommit 284f888fd6744d082f6026f04428a7bc2f9d62b6[m
+Merge: ed4b34a 8bf12d9
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 21 15:21:36 2017 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit ed4b34ac62c35eb5f2eb29f755f463913a204971[m
+Author: Aron <aronwc@gmail.com>
+Date:   Mon Aug 21 15:21:30 2017 -0500
+
+    ignore
+
+[33mcommit 8bf12d978064b8f6e55a394888d8eefe6406cc3e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 21 12:48:51 2017 -0500
+
+    Update README.md
+
+[33mcommit a19c61b7bd7b464a97760ef18527170bca7664f6[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 21 12:48:37 2017 -0500
+
+    Update README.md
+
+[33mcommit cc0445583afa7c8c3649cea71b15c3c59b33d53e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 20 15:04:11 2017 -0500
+
+    Update README.md
+
+[33mcommit 7b29e9dcf8724d0dc1a402eb686fcde20a729cfe[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 20 15:02:00 2017 -0500
+
+    Update Schedule.md
+
+[33mcommit 0a21c3d473e8ea2069ebf1f3f2339bf6522e60a3[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 20 14:59:53 2017 -0500
+
+    Update Schedule.md
+
+[33mcommit 8faf3629631a592ab03e10a5995a8700193a4b9a[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 20 14:59:32 2017 -0500
+
+    Update Schedule.md
+
+[33mcommit 3e2315dab0c3abac369e2392b097f12d99d97140[m
+Author: Aron <aronwc@gmail.com>
+Date:   Sun Aug 20 14:55:14 2017 -0500
+
+    update schedule
+
+[33mcommit 2190daf20d0dc3192703788dfcbc4c51bcedccca[m
+Author: Aron <aronwc@gmail.com>
+Date:   Sun Aug 20 14:47:03 2017 -0500
+
+    update syllabus
+
+[33mcommit 47f5853a2ab3b98689db2e40c6cb472d1518d0c2[m
+Merge: 76e9c9c b93ce7c
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Dec 16 16:09:53 2016 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 76e9c9cb23e4747196bf3e36a15ff9f2007278ea[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Dec 16 16:09:47 2016 -0600
+
+    arithmetic; thanks @wye8
+
+[33mcommit b93ce7c8d746733f8ca365e9d21a2eb253f1b2ff[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Nov 30 11:19:19 2016 -0600
+
+    a4 due date
+
+[33mcommit 2eb6b949fb7609b4cd86d35224005eee5c928859[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 28 12:23:00 2016 -0600
+
+    remove \hbox commands to get github to display formulae correctly
+
+[33mcommit dc25df31d8991c62600e8be604a00c72875ded55[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sat Nov 26 23:37:50 2016 -0600
+
+    show example using pearson correlation
+
+[33mcommit 978fb57aa8e8523c1f8f2cd764c603b246e6eb44[m
+Merge: 7ca0eb3 3b5a4d4
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 21 16:56:58 2016 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 7ca0eb3a559d12e6b5b4f1275a805f3d38fd819e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 21 16:56:49 2016 -0600
+
+    l21 after class
+
+[33mcommit 3b5a4d47a414acc6400ae0c962167f77402a27e2[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 21 10:17:25 2016 -0600
+
+    link to reading for k-means
+
+[33mcommit 1cedf9716e32f4f50d5be906783e9cb4d9ea2e6d[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 18 10:47:13 2016 -0600
+
+    readme
+
+[33mcommit a68758445c1f268d81dc929bb71b2951db02993b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 18 10:46:46 2016 -0600
+
+    readme
+
+[33mcommit 3fbe8e288c34ddc86325cb0d932e495c8e7312fa[m
+Merge: c1c50d6 f7b4678
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 18 10:45:54 2016 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit c1c50d6f33a346bd92a04b107bef7331245250a7[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 18 10:45:46 2016 -0600
+
+     xxx
+
+[33mcommit 04e0e1fe84fdfffe7cdd153030becf5896de450b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 18 10:45:27 2016 -0600
+
+    l20
+
+[33mcommit f7b4678b5a3b8556df26cc597073bd92dad18804[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Nov 18 10:45:01 2016 -0600
+
+    link to l20
+
+[33mcommit f6a384575d6ebfe5a1ec6f4bf00111ea2baa5e7c[m
+Merge: 15f0e9f 0ce6158
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 16 15:27:51 2016 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 15f0e9f309304a9485f4262303d21bc392b83d7b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 16 15:27:43 2016 -0600
+
+    l20 after class
+
+[33mcommit 0ce6158e6cb9f6560765501e1d6658c094fe1242[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 14 13:52:26 2016 -0600
+
+    Update Schedule.md
+
+[33mcommit 3cfb90a3f0304d817c568d272e441ddf6f4450ff[m
+Merge: 4c879ec 06dba9e
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 14 10:01:04 2016 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 4c879ec1234f9e0f29c383a926102561c8c44fd1[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 14 10:00:51 2016 -0600
+
+    update l16
+
+[33mcommit 06dba9e399bf865eec645c54bfeab63c3a64ed4d[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 14 09:58:29 2016 -0600
+
+    text regression slides
+
+[33mcommit c786bb1d0f28f5e6a67c9366dddd6d56dfe44a85[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 14 09:55:03 2016 -0600
+
+    updated schedule
+
+[33mcommit 3484b61534eb79c0afeddc6964de29539feee2d4[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 14 09:52:33 2016 -0600
+
+    update lectures
+
+[33mcommit 39de8aee7c810a4b25940afc45e7fc5b680b2609[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 2 15:04:00 2016 -0500
+
+    l15 after class
+
+[33mcommit ba7a9610dd3f19f5871fab897a95e2967e3c24cf[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 31 09:57:37 2016 -0500
+
+    rm nb for l14
+
+[33mcommit 41a1e6caf322a7c7d519366c00d563abbaebda14[m
+Merge: 689215f 94c5238
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 26 15:23:56 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 689215f3b63b4d0f08e16b0924560be46e4ac317[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 26 15:23:50 2016 -0500
+
+    l19 after class
+
+[33mcommit 1ee9e9bd2389efa3c7c2ec67c1991f4e31a9a93e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 26 15:23:42 2016 -0500
+
+    ignore
+
+[33mcommit 94c52380a614f0e89f59bfcf288521d41393b6b0[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Oct 23 22:41:14 2016 -0500
+
+    Update Schedule.md
+
+[33mcommit b7ad5dedfcfb76f26e45bac403773779a1cd7441[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Oct 23 22:36:24 2016 -0500
+
+    Update Schedule.md
+
+[33mcommit 4e3fd2c3efebb88c5932c585a21929c2bcdfc8cd[m
+Merge: 7b1b7ce ae71cef
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 19 16:00:47 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 7b1b7ce4eb2fe86b3b5ca8e8c1d568f4153a9147[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 19 16:00:39 2016 -0500
+
+    l13 after class
+
+[33mcommit ae71ceffeaaa97de0a11e52cab0230723f71d37d[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Oct 7 13:55:19 2016 -0500
+
+    move due date of a2 to 10/21
+
+[33mcommit 76004b2cada66b269147a8be888bffd2cfbf82e2[m
+Merge: 7840a23 9dd7251
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 5 15:29:13 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 7840a2332553e4f739d056fa062f8cfc1133a461[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 5 15:29:07 2016 -0500
+
+    l12 after class
+
+[33mcommit 9dd7251118276949dc52cf137ed4408e19ca0f3d[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Oct 5 13:25:43 2016 -0500
+
+    update schedule to reflect lecture
+    
+    we spent two class periods on Sentiment Analysis I
+
+[33mcommit 229055a38d0c6146fdeff04a622328b4c07e6936[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Oct 3 16:53:41 2016 -0500
+
+    extend a1 due date to 10/5
+
+[33mcommit f32fdab9291ae97500d2aacce1e25514b244ad09[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 3 15:16:59 2016 -0500
+
+    l11/12 after class
+
+[33mcommit 1e5bdf71d00c7f5259dcd85e908f6362efa21f96[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 28 09:27:12 2016 -0500
+
+    l10 after class
+
+[33mcommit 3ad0161d0726305c43b92096fb0de83218328cfd[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 21 15:21:32 2016 -0500
+
+    l09 after class
+
+[33mcommit dd2048829753c076540f934b4057289b46ee7b79[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 21 13:40:14 2016 -0500
+
+    l09 before class
+
+[33mcommit 99282059cb4e16329237ba5be1d831623b8c2ec0[m
+Merge: f182c43 7a693f4
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 19 15:21:39 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit f182c43192a10ec1c050e44d693cd54472bf633a[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 19 15:21:35 2016 -0500
+
+    l07/8 after class
+
+[33mcommit 7a693f467145eda7de2adbf5d9ca234a2f9414d6[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Sep 19 13:35:30 2016 -0500
+
+    move a1
+
+[33mcommit 5288503c938124cb8f26ee4389896093e4ac46ad[m
+Merge: c14d062 56c95c4
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Thu Sep 15 07:27:17 2016 -0500
+
+    Merge pull request #181 from theTechie/patch-1
+    
+    Patch: Fix broken assignments link
+
+[33mcommit 56c95c497d4a06165b23cee488107a51d54bac9d[m
+Author: Gagan M <theTechie@users.noreply.github.com>
+Date:   Thu Sep 15 16:14:50 2016 +0530
+
+    Update README.md
+
+[33mcommit 1e4a22d6b87cc36b263b75e9fdf9907bca1ecd43[m
+Author: Gagan M <theTechie@users.noreply.github.com>
+Date:   Thu Sep 15 16:13:53 2016 +0530
+
+    Update README.md
+    
+    fix broken assignments link
+
+[33mcommit c14d062f478554e70aa7a51a510ce8dd5c01b444[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 14 15:34:56 2016 -0500
+
+    l06/7 after class
+
+[33mcommit 13e66bc40383b2cf43d55590b6ebf13a2b476a9d[m
+Merge: dcc4381 d95cd82
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 12 15:21:32 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit dcc43818766578e060013b22a10e48451a241939[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 12 15:21:27 2016 -0500
+
+    l06 after class
+
+[33mcommit d95cd82c3f93e7437ad6afe555d4b678be35770e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Sep 12 13:23:12 2016 -0500
+
+    move final exam and a4 deadline
+
+[33mcommit daff2bcad17cedc47e9b5be4909ab454df460fb5[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Thu Sep 8 12:52:45 2016 -0500
+
+    rooms
+
+[33mcommit bac8f1cb00631aaaddb4f98df3794cc230a56c75[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Sep 7 16:19:18 2016 -0500
+
+    Hanqiao office hours
+
+[33mcommit 4914085fb9e8243826536a67d3ec036829b4c76a[m
+Merge: 7d30155 115f6f4
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 7 15:58:35 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 7d301554f258a6322cc6211b70f0a72ea22f0644[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 7 15:58:31 2016 -0500
+
+    l05/6 after class
+
+[33mcommit 115f6f47d7faa121b80b77345bc6c2add73ac15b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Sep 7 15:40:36 2016 -0500
+
+    add more TAs
+
+[33mcommit b5f636356fa4428fabcd249d34965e9bf9d20e28[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 31 16:38:11 2016 -0500
+
+    l04 after class
+
+[33mcommit 58ac9000d6178c3ecef0ffc32cd45939a4cc0ee8[m
+Merge: 83d29ab 59214bc
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 29 20:07:19 2016 -0500
+
+    git push
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 83d29ab6c23abe787575d8d28badf2345f2164e7[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 29 20:07:14 2016 -0500
+
+    l02/l03 after class
+
+[33mcommit 59214bc53f17260cc4cfdb163a3f8a13d412d55d[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 29 12:43:37 2016 -0500
+
+    add TA details
+
+[33mcommit 002c8d46bf59cbd65eacbba3c9c4d6de73f2fc2b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 24 22:32:42 2016 -0500
+
+    l02 after class
+
+[33mcommit bc814a33e57351885d2d506133e739e2cd44caa0[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 24 13:34:21 2016 -0500
+
+    l02 before class
+
+[33mcommit ee7c1db096b7ec2fd68882cfb64f2c827d31a4ef[m
+Merge: ece06b5 c4b63c2
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Aug 23 09:46:36 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit ece06b5a43ac8bc0fa46f06098918be2fb372834[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Aug 23 09:46:31 2016 -0500
+
+    update l01
+
+[33mcommit c4b63c2e5849d265e7f38cecd70811c71fc05586[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 22 09:29:42 2016 -0500
+
+    Update README.md
+
+[33mcommit 3d6940bafa05e716ea62e5ed8270fa8a8a68b1a2[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 21 15:58:22 2016 -0500
+
+    move project
+
+[33mcommit d355db74933264c3fb119b7f7da91c177ac78d31[m
+Merge: 4b66ba6 02bcee7
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 21 15:57:52 2016 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 4b66ba66dd72ca6342cb87d2758b34b913bdbb43[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 21 15:57:38 2016 -0500
+
+    move assignments
+
+[33mcommit 02bcee73575e337c7093d27ce05606b0c5ab92c7[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Aug 17 14:19:00 2016 -0500
+
+    Update Schedule.md
+
+[33mcommit bb6c75120b864a93a0561ba72397bc758b3240b7[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Aug 17 14:16:44 2016 -0500
+
+    Update Schedule.md
+
+[33mcommit 4d2a0e3466cabf5ec03ea07da7fab051ab8eccde[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Aug 17 14:01:05 2016 -0500
+
+    update grading scale; academic honesty
+
+[33mcommit 4db2fc1471a79c429e50a84e02df895b3a27c3ba[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Jul 29 14:17:17 2016 -0500
+
+    Update README.md
+
+[33mcommit e598c42a62cd31a27dc1e6faa6e55cb7f5ad6c8a[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Jul 6 12:46:56 2016 -0500
+
+    update for fall 2016
+
+[33mcommit 3d9a7b18f5b53bc639abd8907fb156ca2c9da391[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Jul 6 12:42:09 2016 -0500
+
+    Update README.md
+
+[33mcommit 29c606e9d3a2289a77505556a7c285f87b832e01[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Jul 6 12:39:31 2016 -0500
+
+    Update README.md
+
+[33mcommit fda229cc6ba4548a17aed03cb9b706f7a2f85435[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Jul 6 12:39:21 2016 -0500
+
+    Update README.md
+
+[33mcommit 541740aa746af9aea023b236f6b16ef0a9dd9170[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 23 10:24:08 2015 -0600
+
+    fix bug in how movies incommon are printed (thanks @xsu11 !)
+
+[33mcommit 2c711e487e01154ee6a40b643863ee88c44a8ea5[m
+Merge: 20b45df 09f7383
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 23 09:53:32 2015 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 20b45df167a1bc8d004c028997e1de2bd9cb8ab3[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 23 09:53:25 2015 -0600
+
+    sample report
+
+[33mcommit 09f73831b845c2eead05598608d4af8ab8948c2c[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 16 09:55:25 2015 -0600
+
+    Update README.md
+
+[33mcommit 86f1a6d923b50396bc41feebd7dccf8b2dde53f6[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 16 09:54:21 2015 -0600
+
+    Update README.md
+
+[33mcommit 6512083580b7db2dfc56978d6cf63205015d17c6[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 16 09:48:13 2015 -0600
+
+    examples
+
+[33mcommit 88bc3af616f1b99fe2f90cdfeeb286142d1a1fe9[m
+Merge: 9bb904f 7da7a58
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 16 09:45:57 2015 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 9bb904fc5ff0fa284cf183207ddce6b66adb23da[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 16 09:45:50 2015 -0600
+
+    example project layout
+
+[33mcommit 7da7a585898c07f8892329ecd21a5afdd1fad693[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 16 09:17:58 2015 -0600
+
+    more instructions
+
+[33mcommit 7c9eb3eddd0202284c8808093edc478f2dc7eeea[m
+Merge: 72b7f77 04ee2dd
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 16 09:08:37 2015 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 72b7f779fe88a360a1a46846ef104417be370cb9[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 16 09:08:31 2015 -0600
+
+    l21
+
+[33mcommit 04ee2dd8596f728aef84b96e92a413d796dcd401[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 16 09:05:38 2015 -0600
+
+    Update README.md
+
+[33mcommit 1eb586e4f8f750f478ecc14e86f52a6608b70211[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 16 09:05:00 2015 -0600
+
+    reduce page length of project report
+
+[33mcommit 25f39c56775d40ab953d6586e04cf65af3569df7[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 16 09:02:16 2015 -0600
+
+    move a4 due date
+
+[33mcommit 53faa285154d19da6f2f3341beffaf1f875e8441[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 16 09:01:31 2015 -0600
+
+    a4 posted
+
+[33mcommit d5e43b26cd3fc4fb886a804fa5362dc5186828f8[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 16 08:51:41 2015 -0600
+
+    rm readme
+
+[33mcommit 747de9dbd97c07d1c44ad03eb2b01528bbc54620[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 11 15:47:41 2015 -0600
+
+    more feature selection notes
+
+[33mcommit 6734ecaeda2d1b641d97dcc255469823f01bd621[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 9 15:48:51 2015 -0600
+
+    l15 after class
+
+[33mcommit 870fe0468fae00e7c67ba04add959e0b85941f86[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 2 22:37:17 2015 -0600
+
+    update a3 to clarify tokenize instructions
+
+[33mcommit 622b544af9a712da6d789aa6eeaa6530d77878c7[m
+Merge: 2bf7c70 a713904
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 2 16:12:24 2015 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 2bf7c703ad9b4f1b874f9a2a182b42ada0745799[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Nov 2 16:12:20 2015 -0600
+
+    l19 after class
+
+[33mcommit a713904a80ba2b5ecc21ecfe34a12b43384f1033[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Oct 28 15:30:15 2015 -0500
+
+    fix dates
+
+[33mcommit 096496eeeff0859f40c27c05bf68461f420f24b9[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Oct 28 15:25:57 2015 -0500
+
+    reorder schedule for recommendation systems.
+
+[33mcommit 28555085159974c86e756f947b622e2436f7b99a[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Oct 28 13:17:21 2015 -0500
+
+    post a3
+
+[33mcommit a512c836b152b52390c9b5a9d235a27cd6f90fa4[m
+Merge: faff78e 1114f4b
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 28 13:11:04 2015 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit faff78e3267f52fee327c7603155f810aafc383b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 28 13:10:59 2015 -0500
+
+    a3 posted
+
+[33mcommit 1114f4b2fc7b7a223883d0845a58083679ac1a1c[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Thu Oct 8 18:27:44 2015 -0500
+
+    Update README.md
+
+[33mcommit ed215d2571e3c53bc9152683fbc099968dd766a3[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Thu Oct 8 13:57:36 2015 -0500
+
+    l13 after class
+
+[33mcommit 724bc9844e8db56bc9cd8b0eaa655fd925c0e4ea[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 5 15:54:35 2015 -0500
+
+    l12 after class
+
+[33mcommit b2b300962070e1956a161d00084a36d12e7f78ea[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 30 15:47:05 2015 -0500
+
+    l11 after class
+
+[33mcommit 0a623fc3db734f1ea0195d874bfc7a14b4737708[m
+Merge: 2641e95 5341703
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 28 15:37:05 2015 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 2641e959bb44b6c34d5f0c48a200833a93159326[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 28 15:36:59 2015 -0500
+
+    l10 after class
+
+[33mcommit 534170329898c2118519bebed2c2aa9013129550[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Sep 28 13:52:18 2015 -0500
+
+    Update Schedule.md
+
+[33mcommit 75e69e5ca8324c29716ad08ee0c24746765b7dec[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Thu Sep 24 09:54:15 2015 -0500
+
+    l09 after class
+
+[33mcommit 0ac3cd45652203371dcfa8b495f07fb87f3e7ae3[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 23 12:29:06 2015 -0500
+
+    l09 before class
+
+[33mcommit 5cb46ec78f8d88c92cd9957971a995cd2a025c9d[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Sep 23 11:31:13 2015 -0500
+
+    add Alaa's info
+
+[33mcommit 8ae642d5eba1897b2a76055c913e2231a7ccb762[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Sep 23 11:06:27 2015 -0500
+
+    update instructions to install ipython notebook
+
+[33mcommit ecfa23ad572678d2a78d4e2a7ee843e15f5f187e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Sep 22 21:40:58 2015 -0500
+
+    Set due date for a2 on 10/2
+
+[33mcommit 3f41cfe47f4355b65ccad4599bea098549378d63[m
+Merge: 112cd63 4082497
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Sep 22 17:38:19 2015 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 112cd6369fff287ce2708395009437fbf28daa8c[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Sep 22 17:37:54 2015 -0500
+
+    a2 finally posted!
+
+[33mcommit 408249741519c62035c879c55d61a638eb8061c8[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Sep 22 08:57:47 2015 -0500
+
+    Delete README.md
+
+[33mcommit 1ecdc57a83f2e6c00dfa664a5e517486b53ded9e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Sep 22 08:56:58 2015 -0500
+
+    Delete README.md
+
+[33mcommit 437050150461b38aabdd29770503590d7ad03f8a[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Sep 22 08:56:49 2015 -0500
+
+    Delete README.md
+
+[33mcommit 7254881125336aaa7325d482f287027551357f94[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Sep 22 08:56:33 2015 -0500
+
+    Delete README.md
+
+[33mcommit bd50dcd2f6d03e258feb70864695caae8097b814[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Tue Sep 22 08:56:17 2015 -0500
+
+    Update README.md
+
+[33mcommit 78ca5185d82af95157618dacb4836208656079f3[m
+Merge: 402ffa6 8025685
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Sep 22 08:45:05 2015 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 402ffa645449525fa3a17d8994d4b038949721c7[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Sep 22 08:45:00 2015 -0500
+
+    l07/l08 after class
+
+[33mcommit 8025685a01271aa2bcb81e57d8a531310a88a19b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Sep 21 12:55:27 2015 -0500
+
+    move a3 to 10/28
+
+[33mcommit 97293b02d2a02a2f6754a732ececd347cb389ef5[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Sep 21 12:54:56 2015 -0500
+
+    move a2 to 9/30
+
+[33mcommit a77367cb58ee2a5e0cf3b1e5181b5ac6512aa038[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 16 15:14:15 2015 -0500
+
+    l06 after class
+
+[33mcommit 5f653aaafdbb07d5aec10223a397ddbbb9d4b514[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Sep 15 09:00:10 2015 -0500
+
+    l05 after class
+
+[33mcommit db4647a4a29d8420e5ce5497da6982cc64b3cda2[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 14 12:13:30 2015 -0500
+
+    l05 before class
+
+[33mcommit 00b3996a54cd9ddccd656da0977a943c11ef187b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 9 21:29:06 2015 -0500
+
+    final output before due date
+
+[33mcommit cea70cee42760720c44d0daf8de9bb46d75278bf[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Sep 8 14:43:13 2015 -0500
+
+    update output of a1 as of 12:39p
+
+[33mcommit 67dbab515bec8130a4da0be753fa40e764e6c3e5[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Thu Sep 3 09:19:20 2015 -0500
+
+    rerun my solution to a1 to get latest output for comparison
+
+[33mcommit eed63264d94c1770792fa02b3356ed321b5f3185[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 2 15:59:11 2015 -0500
+
+    l04 after class
+
+[33mcommit a8dd9bf3ce9e49dc086b426f52969c76b611212d[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 2 13:43:41 2015 -0500
+
+    l04 before class
+
+[33mcommit 55b53418fa3edd0d7338964c3ef8ad6540a311bb[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 31 15:16:32 2015 -0500
+
+    l03 after class
+
+[33mcommit 6381616b84dcf0b6921711d9c3d52170dacae4ae[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 30 21:53:08 2015 -0500
+
+    fix documentation to score_republicans (remove democrats parameter)
+
+[33mcommit 50609ee380c6ffb464244f3bbdd52e85272a56a5[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Thu Aug 27 10:03:54 2015 -0500
+
+    l02 after class
+
+[33mcommit a445759be4a5ced0e2dfafa132f26af21bbcb04a[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 26 12:22:52 2015 -0500
+
+    l02 before class
+
+[33mcommit 6be06b9a7d22771685b0b3fd0e7d1a727a7010fe[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 26 11:50:59 2015 -0500
+
+    fixed InsecurePlatform error messages
+
+[33mcommit bae786e27bd9c630b5fcc23c394e98f3f70820ea[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 26 11:31:47 2015 -0500
+
+    asg1 updated
+
+[33mcommit 1b681bc5881450af4c2650ab7baf14b1091f7fb4[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Aug 26 09:37:29 2015 -0500
+
+    reminders for late students
+
+[33mcommit 33a612ce4c31b4cd133df583c1c545cff91cdc9b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Aug 25 09:49:20 2015 -0500
+
+    comments in l01
+
+[33mcommit b4dccac405e343f9124b830a4d8f78208e85e9c4[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Aug 25 09:48:36 2015 -0500
+
+    add survey data for plots in l01; note, I have removed answers to final question to preserve anonymity, so the final cell block printing the top terms will not work
+
+[33mcommit 94940627e7910047e37ad78754c288ab1aef2e32[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 24 15:30:53 2015 -0500
+
+    l01 after class
+
+[33mcommit 1324c7514348974f05a2f42cb7be9f17cd03277e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 24 13:41:18 2015 -0500
+
+    update readme l01
+
+[33mcommit 963f0c331073e2ff1d583a7dbe7dbf89cff16414[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 24 13:39:39 2015 -0500
+
+     rm old survey results
+
+[33mcommit 571bf8a9fec1b303751b3361874be943b116e42d[m
+Merge: acf9079 af8b3bc
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 24 13:33:44 2015 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit acf9079549b2d3b477e815eb7c3865afd77e2f0e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 24 13:33:41 2015 -0500
+
+    l01 before class
+
+[33mcommit af8b3bcad80e3a58bd333c3e96b61dca8593ee6f[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:23:07 2015 -0500
+
+    rename midterm/final to test 1 / test 2
+
+[33mcommit 3046bf5980f9eccde1503b74904f1ef587624d97[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:22:36 2015 -0500
+
+    Update Schedule.md
+
+[33mcommit 3d9e3320cd023033302f550e9f59f51918483123[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:15:54 2015 -0500
+
+    Update README.md
+
+[33mcommit 6b8b4b42d2f12ce2edbdcd357a2bb607c500f0ea[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:15:35 2015 -0500
+
+    Update README.md
+
+[33mcommit 6dc02580a37be33ed6d547f3adc9dab74370f141[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:15:25 2015 -0500
+
+    Update README.md
+
+[33mcommit 6e15127482348928eb0c4a89b532412c21785d00[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:15:13 2015 -0500
+
+    Update README.md
+
+[33mcommit ffb5ed88e035177a381d7c6562b9c1759ee26952[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:15:05 2015 -0500
+
+    Update README.md
+
+[33mcommit ee267b7c8093f8793d4bc1cdb4a0b9ed9b587bab[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:14:56 2015 -0500
+
+    Update README.md
+
+[33mcommit 2c725af36a7a8e135f8759053d18d1d8f401788a[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 13:13:34 2015 -0500
+
+    Update Schedule.md
+
+[33mcommit 98f87d9f1bd8afb4bb2570f32a227b8045b5ecb7[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 24 12:38:05 2015 -0500
+
+    Update README.md
+
+[33mcommit f5920888349eee63cf9b2c79549cf66862148bf1[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 22:44:57 2015 -0500
+
+    Update Schedule.md
+
+[33mcommit a1c878830a2f4f09c5bfa011e0cd6678874b2ee5[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 22:44:38 2015 -0500
+
+    Update Schedule.md
+
+[33mcommit 453d45a43f20b6956c7a0d35ab54928427016552[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 22:44:05 2015 -0500
+
+    Update Schedule.md
+
+[33mcommit edeb24ae3548bd63561a2a5f953d8b9309a626ed[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 22:33:32 2015 -0500
+
+    Update Schedule.md
+
+[33mcommit 589b7eb6bc53eaab10404e2d356dee495c1f42c4[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 23 22:09:35 2015 -0500
+
+    update asg2
+
+[33mcommit 3e602a568e824a8aa913223b1348424105eb1e4f[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 23 22:08:39 2015 -0500
+
+    update asg1
+
+[33mcommit 408f942bfc8c95e779fbfc99729e2bce51d534c9[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 22:00:10 2015 -0500
+
+    Update README.md
+
+[33mcommit a067fffdd37b20a2d8851ed0979d95d44023c9d2[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 15:10:57 2015 -0500
+
+    add TA office hour
+
+[33mcommit 10caa700e199aad22a03ccd9e19a716009b434b2[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 14:50:57 2015 -0500
+
+    update schedule for fall15
+
+[33mcommit f870a5a5c58714fbd51d615abf967f4f772de55b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 23 14:43:01 2015 -0500
+
+    office hours, ta udpates.
+
+[33mcommit 66c41c67804fe69a79cb62bf50a075011287d080[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Jul 27 10:23:20 2015 -0500
+
+    spacing
+
+[33mcommit a10a43809fe100cd94ce0f0acb8fbceaaea8b23e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Jul 27 10:23:00 2015 -0500
+
+    update to 2015
+
+[33mcommit 7bdc3ecc165724b45e12a4570d28656b87081e1b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Jul 27 10:22:42 2015 -0500
+
+    update to 2015
+
+[33mcommit 7db12fdecb1f79b693c8497210ba5b95a5d81279[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Jul 27 10:16:29 2015 -0500
+
+    ignoring some data
+
+[33mcommit 64c3cca7d5596de3a82bae4510d66d72d052cb40[m
+Merge: ddda87d 2bc18a2
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 21 09:52:47 2014 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit ddda87d18c143e39698b47a7a6abebac55775f25[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 21 09:52:42 2014 -0600
+
+    link to local copy of l18 (with viewable math)
+
+[33mcommit 2bc18a2f9835fc56a4eceb963ce039daf4d931a1[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Nov 21 09:51:57 2014 -0600
+
+    store l18 pdf locally
+    
+    linked version had problems displaying math
+
+[33mcommit 65e2dbc9bc02e11b2a95f5dfb2f3442b2f2f2e9a[m
+Merge: 1180f93 0fd2345
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 21 09:38:34 2014 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 1180f93cf39d744bb0b6c7e05243022d6dd4b683[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Nov 21 09:38:29 2014 -0600
+
+    link to slides for l18
+
+[33mcommit 0fd23457b7fd93a3e98e86d16ba76c649fa128ed[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Thu Nov 20 11:52:48 2014 -0600
+
+    link to l21
+
+[33mcommit ac3f035810d7c99824e4c160ebab355b8423fb17[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 19 14:15:39 2014 -0600
+
+    l21 (final review)
+
+[33mcommit cf4f6c255471a74c6166db3397f99df5a5274882[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Nov 19 13:47:35 2014 -0600
+
+    link to l18 slides
+
+[33mcommit 53fcedd193b765af5e039c0c8f5003aa9412c80e[m
+Merge: edfac83 c5ab9d2
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 19 13:22:54 2014 -0600
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit c5ab9d29334d846cfcf805bc4d01f9e6e4d6b2d7[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Nov 19 13:21:06 2014 -0600
+
+    update past few classes on schedule
+
+[33mcommit edfac834ad83d8e39b45fcee09b904fbc0d221e3[m
+Merge: 16a1d1f 3edc0ed
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 12 15:15:24 2014 -0600
+
+    git push
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 16a1d1f3d91f96b5f170a1bdafdcc770c183fdfe[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 12 15:15:19 2014 -0600
+
+    l19
+
+[33mcommit 3edc0ed88aade0ce211228eb90842a899bff6dcd[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Nov 12 12:30:01 2014 -0600
+
+    Remove A3
+
+[33mcommit f30aff465339c9626723790e3d55b56d08b4bde5[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Nov 10 09:20:57 2014 -0600
+
+    link to recommendation system reading
+
+[33mcommit 464c7737c9f380e20adc53e444b611cec41847e9[m
+Merge: 418da12 01e9728
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 5 15:32:32 2014 -0600
+
+    git push
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 418da120ee4d6f057b5f7519ba11c6fad052ad95[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Nov 5 15:32:24 2014 -0600
+
+    l17
+
+[33mcommit 01e97281de4e4a664e54828a245c7d4ba920447c[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Nov 2 22:47:13 2014 -0600
+
+    link to notes on gradient descent/logistic regression.
+
+[33mcommit f962418350decfa492a94b5449d7393b671d52d2[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Nov 2 22:43:59 2014 -0600
+
+    Update README.md
+
+[33mcommit edef1207825a757d1a45c239248caf3e55938221[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Nov 2 22:37:50 2014 -0600
+
+    Update Schedule.md
+
+[33mcommit fa8bbcdedcac0e126535917171126bbc0539d957[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 29 15:34:57 2014 -0500
+
+    l15 after class
+
+[33mcommit 53522e7a830a38cdac547c51d93f143808badd54[m
+Merge: 9a884a6 6b3ac43
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 27 15:07:52 2014 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 9a884a63c2de72d3e9651ab6a0f3e58551b20cae[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 27 15:07:43 2014 -0500
+
+    l14 after class
+
+[33mcommit 6b3ac4346989ed1aba0e19aaf164ab41d3e59cad[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Oct 27 10:35:56 2014 -0500
+
+    Add another demographic inference lecture
+
+[33mcommit 5412aa76a09b09f99f866875f6c37fd6d0bd7fee[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 15 15:23:45 2014 -0500
+
+    l13 after class
+
+[33mcommit ea7ca85cc3046498b3c4e91263ca11fa02798f94[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 8 10:45:50 2014 -0500
+
+    fix typo about Laplacian (see issue #26)
+
+[33mcommit e64ad7e473b07fe6840649f89454c8a196c0d134[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Oct 7 11:21:33 2014 -0500
+
+    fix typo in formula in l08
+
+[33mcommit 680e06a9da3e5268d2c45dfcdb3e48fadfa58c4a[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 6 21:04:17 2014 -0500
+
+    l11 after class
+
+[33mcommit 3bb826de82e4de6aefa99828341a1ac23b7c7786[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 6 21:03:40 2014 -0500
+
+    twitter.cfg
+
+[33mcommit 02ef2cd6f61e31607f713154888151006c1b2380[m
+Merge: 9434088 cdcc6f4
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 6 21:03:23 2014 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 9434088f5e32fab25c95c643f4e87033c0a5afbe[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Oct 6 21:03:13 2014 -0500
+
+    l12 after class
+
+[33mcommit cdcc6f4d474512cf30d1e9f43c73e2f58c612b0c[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Oct 5 23:12:51 2014 -0500
+
+    Move A3
+
+[33mcommit a1cd204a98033cb5e1fa4474aa1b76c44e3c5103[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Oct 1 13:27:18 2014 -0500
+
+    l11 before class
+
+[33mcommit d4fcedea8ad144511ae7230f48b887cc8ba3ba2f[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 29 15:30:54 2014 -0500
+
+    l10 after class
+
+[33mcommit ab32286c2c9ff09c42af87d531e1067f7556555f[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Thu Sep 25 11:54:49 2014 -0500
+
+    fix typeo in l03
+
+[33mcommit 18ecd9fcfcb4cf8c6db82d0351b38c2db4f45192[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 24 15:06:31 2014 -0500
+
+    l09 after class
+
+[33mcommit 463b5bced1a251e6cc2c0ce087b73d60ad9cb766[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 24 13:51:14 2014 -0500
+
+    l09
+
+[33mcommit 72c9419f0b01c07cd9079d70aa70de34d12f9c8c[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 22 15:16:49 2014 -0500
+
+    l08 after class
+
+[33mcommit 6f7e9c906b457dd822915f5e9f4462b20f4b4624[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 17 15:23:31 2014 -0500
+
+    l07 after class
+
+[33mcommit 1d3ef18687d24864744196c2cdddb76243d1534e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 15 15:06:00 2014 -0500
+
+    l06 after class
+
+[33mcommit 228336c2e4f1eb40d8d6211b6c46da99a7e3ca44[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 10 13:38:44 2014 -0500
+
+    l05 before class
+
+[33mcommit 0f7c23a6dcc343a3e66e9fb499c49142502286e6[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 10 02:12:41 2014 -0500
+
+    a2 posted
+
+[33mcommit 5d6dad0c4c1632096178df94d7ba26b9078c236f[m
+Merge: 4fec278 f1468dd
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 8 15:37:49 2014 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 4fec2781e94e718fad8e80e10bef334856d3e7d2[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 8 15:37:41 2014 -0500
+
+    l04 updated
+
+[33mcommit 3f96aee32baf2a0c7074ea032f6f4caf42a1c9d5[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Sep 8 13:44:19 2014 -0500
+
+    l04 draft
+
+[33mcommit f1468dd488abb78d42c3c4aff0019aca7c87c63a[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Sep 8 11:15:18 2014 -0500
+
+    Update late policy
+
+[33mcommit 9a0cd2b71b4167f8f027e79d114e5cea43f1b152[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 3 16:14:31 2014 -0500
+
+    upgrade to networkx 1.9; add required with_labels=True argument to view node labels
+
+[33mcommit 73708f970349b890c5235f28ed1c7db394cf333e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 3 15:28:33 2014 -0500
+
+    fix degree distribution graph; add mean
+
+[33mcommit 0f3b588dece4e278e9b8cc28dfcbbb36761b3f25[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Sep 3 15:14:37 2014 -0500
+
+    l03 added
+
+[33mcommit 00dfe59724bfd6ce71711ed13b0c196592f2550c[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Wed Aug 27 19:06:50 2014 -0500
+
+    Fix instructions for pulling private repo.
+
+[33mcommit d0ac40124fc7b1ab4843cf0addc72eb696a7891b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 27 15:17:48 2014 -0500
+
+    l02 complete
+
+[33mcommit 3e612e168de646c669bed06b738655ff88dd7b46[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 27 10:04:27 2014 -0500
+
+    ignore ipynb checkpoints
+
+[33mcommit 99c178960a234099776af3ad86b7012da5b97b69[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Wed Aug 27 10:03:51 2014 -0500
+
+    latest survey results
+
+[33mcommit 930f46b338be11667c7bd4101a574285a3099f6f[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Aug 26 20:17:55 2014 -0500
+
+    remove checkpoints
+
+[33mcommit d7c2acdf2729e413d7ea815e5ae99ace8631a8e3[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Tue Aug 26 20:17:18 2014 -0500
+
+    update readme; update survey results
+
+[33mcommit f2104477f54b77952912d93b7846de9327a95d5e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Mon Aug 25 15:07:30 2014 -0500
+
+    update l01 with in-class edits
+
+[33mcommit b36518255e57e3c20cfdb16ec63a34b609bf939b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 25 11:41:21 2014 -0500
+
+    Update README.md
+
+[33mcommit 03fc15ef013abd7320a5a48081660c5e980b21d5[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 25 11:40:35 2014 -0500
+
+    Update README.md
+
+[33mcommit 0d744f2c165551c2f0046f0abc6e6061e4b9c836[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 25 08:05:08 2014 -0500
+
+    Update README.md
+
+[33mcommit 68f29549a6100b45e4071c6576e1f20b2018c055[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 25 08:04:51 2014 -0500
+
+    Update README.md
+
+[33mcommit 2e89f0674878d2976e05f9d7de8506d9850aab24[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 25 08:04:30 2014 -0500
+
+    Update README.md
+
+[33mcommit 7f4a685f22b9925151dd7b5f7b40199916a95361[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Mon Aug 25 07:51:10 2014 -0500
+
+    update prerequisite
+
+[33mcommit 141e925858b2014cf3ab04da3f2f708d54b5bd7f[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:25:49 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 47fb22d1fc4e23d5a18dbca73caa3f478471c57e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:24:22 2014 -0500
+
+    Update ProjectLinks.md
+
+[33mcommit 3e9a342ffd376fc18d50b0d433fc7e11db3636e0[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:23:03 2014 -0500
+
+    Update README.md
+
+[33mcommit e10e2f5bf9b96caa4a01337815dd289bd35d5a1e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:15:49 2014 -0500
+
+    Update README.md
+
+[33mcommit 685dd347d012a1febc121b15515fefb51927a63d[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:11:28 2014 -0500
+
+    Update README.md
+
+[33mcommit b1608304bdfddd981b2b33a64727469be552f151[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:10:03 2014 -0500
+
+    Create README.md
+
+[33mcommit d7f0568c3dd1797c3b7796a4d2c81454d6877862[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:07:47 2014 -0500
+
+    Update README.md
+
+[33mcommit 60202265404186b35c2d9eac886262bfcd32c9b1[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:06:39 2014 -0500
+
+    Update README.md
+
+[33mcommit 8157a4afa2d8a9b9346e6976b3657b47b9cc4026[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:06:19 2014 -0500
+
+    Update README.md
+
+[33mcommit 5342582f1ee63bba7cfdb5655b04c4d7a5f9fb92[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:04:44 2014 -0500
+
+    Update README.md
+
+[33mcommit df874036d03e6c9b8246456263317fd968fe9a12[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 23:02:20 2014 -0500
+
+    Create ProjectLinks.md
+
+[33mcommit 4574a1650df603fee66daf597cc6992afe22a4f6[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 24 23:00:53 2014 -0500
+
+    add project
+
+[33mcommit b5202381605fbe43527d411abdffd1abb398fc20[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 22:57:35 2014 -0500
+
+    Update README.md
+
+[33mcommit b02c74f0b881d6fd12d714f53ae32b5288d4e2d1[m
+Merge: e3b40ed 37098a8
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 24 22:51:29 2014 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit e3b40ed2fa541b7775bf24ce10f4727f98385cf2[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 24 22:51:25 2014 -0500
+
+    l01 draft
+
+[33mcommit 37098a831e1a5ce76ef8b3c5c6e4605f4e20af0b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 22:11:36 2014 -0500
+
+    Update README.md
+
+[33mcommit ba34a69c030a76c2aa5c24346c06a80cb532f922[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 22:10:54 2014 -0500
+
+    Update README.md
+
+[33mcommit 2371608287af868a3075062b7fd4703664c2f2c8[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 22:09:36 2014 -0500
+
+    Update README.md
+
+[33mcommit 9cf739e348e4b5cae4323ebdf1f6adb7f76bc215[m
+Merge: ecb5b5e aa59a17
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 24 22:06:32 2014 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit ecb5b5e1bfbc9adbe796d5a680b723271a86a3b3[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 24 22:06:30 2014 -0500
+
+    update instructions for asg1
+
+[33mcommit aa59a174ae82da39fdcf4c42edd10ed370a6c501[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 22:05:13 2014 -0500
+
+    Update README.md
+
+[33mcommit 594361c1e55ce6ad6a288b8fd7cbf607a6fc04fe[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 24 22:02:07 2014 -0500
+
+    asg1 python
+
+[33mcommit e759859048c03b57220d963ea1d4a891b7bc8fab[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Sun Aug 24 22:00:26 2014 -0500
+
+    asg1 draft
+
+[33mcommit 20c22592d46c78e5418630531618700c261e3fd2[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 20:08:27 2014 -0500
+
+    Update README.md
+
+[33mcommit b0e745c905f336fa2631bc9cc5efd9e8a1c2620b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 20:07:46 2014 -0500
+
+    Update README.md
+
+[33mcommit c0cf274368fd0d5a7ead0a001520b22e7d13fedf[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Sun Aug 24 20:03:48 2014 -0500
+
+    Update README.md
+
+[33mcommit a05ef4fe94e42e0affee653e7cc7a5160210e06d[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 23:20:59 2014 -0500
+
+    asg stubs
+
+[33mcommit 1559394229d078e01571986f87b9b209ab5d5b82[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:18:44 2014 -0500
+
+    Update README.md
+
+[33mcommit 3fd1fd620d985f8f1bce8eaab9e615de8a9bc9cc[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:17:54 2014 -0500
+
+    Update README.md
+
+[33mcommit a94780d4010bb35994e24493f8c0ba01dde5141b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:17:16 2014 -0500
+
+    Update README.md
+
+[33mcommit b0da5b14b9eb6e6ec0ad1937d441826cbef03ceb[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:15:51 2014 -0500
+
+    Update README.md
+
+[33mcommit e230be1be88efcf5053ff077a47fc5145570abcd[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:13:35 2014 -0500
+
+    Update README.md
+
+[33mcommit ebe53c46c47325c08ce3668ca9bc26af683182c9[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:08:22 2014 -0500
+
+    Update README.md
+
+[33mcommit da25fcdc5c885884a5b3ddbb700ffa9f2d58be19[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:05:01 2014 -0500
+
+    Update README.md
+
+[33mcommit 7f25a0a3f2342bad80f8c5c15728c87299bc5e2b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 23:03:28 2014 -0500
+
+    Update README.md
+
+[33mcommit c192747f8aa9ba119f2e1aa1263998ad674f47c3[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 23:00:24 2014 -0500
+
+    move
+
+[33mcommit 2ee45486be3a8d07b1cbb250d479fd66b279bcb9[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:59:54 2014 -0500
+
+    mv
+
+[33mcommit ace3050a7443a55645d08784f5f2d23403ff0203[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:59:29 2014 -0500
+
+    more readings
+
+[33mcommit d075d9531f4fe3fa26a40aedca27a585b4d8f3cc[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 22:59:13 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit d07dff619f3b5142f442c9f972270cf650fca5b8[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 22:44:00 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit eae44ce2fa8f6e1f1c8276276a4b873178f4001b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:42:59 2014 -0500
+
+    lecture stubs
+
+[33mcommit e92c213c620660293df48bdcb8ba655aa808b37c[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:42:44 2014 -0500
+
+    ignore
+
+[33mcommit 93eea2554a2bcd1fbed61c84c768a50741f4e094[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:31:46 2014 -0500
+
+    readme
+
+[33mcommit 9aa9788e418f1a1771a6568bb99608d8227064fa[m
+Merge: 5afdb6d 1d95b77
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:30:02 2014 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 5afdb6d9e41c1da74e43b5b7c2b8630a98f3d197[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:29:56 2014 -0500
+
+    l01
+
+[33mcommit 1d95b778ed9142403bda999ff6c7e347e090c844[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 22:27:05 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 987edb156338693a1d3c8cb3b633cd201e5fda5e[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 22:25:36 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 4b04313e129f193999611ebb83f271210521976e[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:24:20 2014 -0500
+
+    more readings
+
+[33mcommit 9a0500bac361693ea430e841897ee896eba0e0ce[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 22:24:12 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit a11292368e17846b48c17e0bcdb9a3658d984b70[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:13:22 2014 -0500
+
+    lru
+
+[33mcommit a19f18ec9bf075992c44d1dc77b35c9236a86a40[m
+Merge: 91bf59d 1a87fa8
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:06:47 2014 -0500
+
+    Merge branch 'master' of https://github.com/iit-cs579/main
+
+[33mcommit 91bf59db6d822aaa81a5f0cb00f6dbcfe782d450[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 22:06:41 2014 -0500
+
+    readings
+
+[33mcommit 1a87fa8ec7fc7fe85e0b6574caa8f21a54378a8f[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 22:06:29 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 6e6c8c1b5c4088ce786aa8c0c56d12cacb84ff6c[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 22:06:18 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 2cabdb37fd6571c1a94620caa4acc3be90aaf3a6[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 21:58:08 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit b8f891b4ac182ec8affb982782a7f8abeecf1a0b[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 21:54:39 2014 -0500
+
+    rd1
+
+[33mcommit 06bccaada5bbaa6a3333d47dd3e78ce3a6f56785[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 21:48:01 2014 -0500
+
+    l01
+
+[33mcommit 16253fdeb60af4891f9aa71d8120b95887cf0bb0[m
+Author: Aron Culotta <aronwc@gmail.com>
+Date:   Fri Aug 22 21:47:21 2014 -0500
+
+    a1
+
+[33mcommit 263ee9f427dedb3c39a1c6af16278719400aa2af[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 17:13:23 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit f84bc05fe59629a716b481fadcc01d1d15b9fccd[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 15:41:05 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit f9cd0183f2f74388cacf6cc5311847328d8c055f[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 12:52:50 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 251ae5dfcbd899a5ea03735b5e064ff9b6525e6c[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 12:46:50 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 2a1f1d177185c029b03152f42de6803aba51539b[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 11:29:48 2014 -0500
+
+    Update Schedule.md
+
+[33mcommit 0917dce46777de3bedbe9b542916adfa9323d382[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 11:29:37 2014 -0500
+
+    Create Schedule.md
+
+[33mcommit 2966ea55a76184056e3cc1dafbbd032bd9a9bfa9[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 11:27:11 2014 -0500
+
+    Update README.md
+
+[33mcommit 144aacbfc3fee53e067d96045bdccce46c5b0753[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 11:26:50 2014 -0500
+
+    Update README.md
+
+[33mcommit f5bbb6d09280c830719e61f6df0a36fb2b5a2fc4[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 10:45:30 2014 -0500
+
+    Update README.md
+
+[33mcommit 85fb565e7004d274207d80344de0553bb8647240[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 10:45:18 2014 -0500
+
+    Update README.md
+
+[33mcommit ddcd3c997470799210e15714364288cf466d5356[m
+Author: aronwc <aronwc@users.noreply.github.com>
+Date:   Fri Aug 22 10:44:49 2014 -0500
+
+    Initial commit
